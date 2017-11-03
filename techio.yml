@@ -7,8 +7,8 @@ plan:
  - title : Part 2
   statement : markdowns/part2.md
 projects:
-  nodejs:
-    root: /nodejs-project
+  node:
+    root: /src
     runner:
       name: techio/node-npm-runner
       version: latest
