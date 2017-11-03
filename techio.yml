@@ -8,6 +8,8 @@ plan:
     statement: markdowns/welcome.md
   - title: Code
     statement: src/hello/hello.js
+  - title: Code2
+    statement: src/hello/hello.test.js
 projects:
   node:
     root: /src
