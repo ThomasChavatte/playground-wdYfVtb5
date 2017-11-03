@@ -3,7 +3,7 @@ plan:
 -title : Intro
  statement : markdowns/intro.md
 - title: Part 1
-  statement: markdowns/welcome.md
+  statement : markdowns/welcome.md
 projects:
   node:
     root: /src
