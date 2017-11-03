@@ -1,9 +1,11 @@
-title: Test pour Deco
+title : Test pour deco
+
+# Table of content
 plan:
-- title: Intro
- statement: markdowns/intro.md
-- title: Part 1
-  statement: markdowns/welcome.md
+  - title: Introduction
+    statement: markdowns/intro.md
+  - title: pp
+    statement: markdowns/welcome.md
 projects:
   node:
     root: /src
