@@ -1,7 +1,9 @@
 title: Test pour Deco
 plan:
-- title: Bonjour
+- title: Part 1
   statement: markdowns/welcome.md
+ - title : Part 2
+  statement : markdowns/part2.md
 projects:
   nodejs:
     root: /nodejs-project
