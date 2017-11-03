@@ -1,8 +1,8 @@
 title: Test pour Deco
 plan:
--title : Intro
+- title : Intro
  statement : markdowns/intro.md
-- title: Part 1
+- title : Part 1
   statement : markdowns/welcome.md
 projects:
   node:
